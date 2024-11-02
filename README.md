@@ -1,2 +1,2 @@
 # git-demo
-Author-Tejaswi
+Author-Tejaswi (git-demo)
